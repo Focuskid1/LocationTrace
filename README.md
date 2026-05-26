@@ -1,6 +1,5 @@
 # OMNIRAT — Quick Setup Guide
 
-[![Stars](https://img.shields.io/github/stars/mkate666/LocationTrace?style=social)](https://github.com/mkate666/LocationTrace/stargazers) [![Forks](https://img.shields.io/github/forks/mkate666/LocationTrace?style=social)](https://github.com/mkate666/LocationTrace/network/members) [![Deploy Vercel](https://img.shields.io/badge/deploy-vercel-black)](https://vercel.com)
 
 <p align="center">
   <a href="https://github.com/mkate666/LocationTrace/stargazers">
@@ -9,10 +8,6 @@
 
   <a href="https://github.com/mkate666/LocationTrace/network/members">
     <img src="https://img.shields.io/github/forks/mkate666/LocationTrace?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/mkate666/LocationTrace/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
