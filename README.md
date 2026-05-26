@@ -2,7 +2,19 @@
 
 [![Stars](https://img.shields.io/github/stars/mkate666/LocationTrace?style=social)](https://github.com/mkate666/LocationTrace/stargazers) [![Forks](https://img.shields.io/github/forks/mkate666/LocationTrace?style=social)](https://github.com/mkate666/LocationTrace/network/members) [![Deploy Vercel](https://img.shields.io/badge/deploy-vercel-black)](https://vercel.com)
 
+<p align="center">
+  <a href="https://github.com/mkate666/LocationTrace/stargazers">
+    <img src="https://img.shields.io/github/stars/mkate666/LocationTrace?style=for-the-badge" />
+  </a>
 
+  <a href="https://github.com/mkate666/LocationTrace/network/members">
+    <img src="https://img.shields.io/github/forks/mkate666/LocationTrace?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/mkate666/LocationTrace/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 
 # 💬 Step 1: Telegram Setup
@@ -17,7 +29,8 @@ You need a private Telegram bot that will forward location updates to you.
 4. Choose a username ending with `bot` (example: joker_finder_bot).
 5. BotFather will reply with a Token (a long string). Copy and keep this Token safe.
 
-🔹 B. Make the Bot Private and Note Your Chat ID
+🔹 B. Get Your Chat ID
+
 1. Open @userinfobot and just start it to get your uid. once you do that, keep it safe too.
 
 # 📦 Step 2: Configure the Tracker Server
@@ -29,3 +42,13 @@ You need a private Telegram bot that will forward location updates to you.
   </a>
 </p>
 
+during repo forking, you can give your repository any name of your choice.
+
+2. Deploying your project on vercel:
+
+   click the button below to deploy your forked repo on vercel
+   <p align="center">
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/Deploy%20with-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy with Vercel" />
+  </a>
+</p>
