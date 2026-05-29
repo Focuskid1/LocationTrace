@@ -61,3 +61,9 @@ You need a private Telegram bot that will forward location updates to you.
 **AUTH_TOKEN** this is your pesonal password it can be anything example **joker12345**
 
 click Deploy and wait for the deployment process to be completed. go to dashboard and get your server url.
+keep your url safe together with your auth token, youll need it later.
+
+
+# 🍊 Step 3
+
+
