@@ -1,0 +1,16 @@
+{
+  "devices": {
+    "test_device2": {
+      "lat": 6.5244,
+      "lng": 3.3792,
+      "accuracy": 5,
+      "speed": 0,
+      "bearing": 0,
+      "batteryLevel": 50,
+      "isCharging": false,
+      "pendingCommand": "NONE",
+      "timestamp": 1779963562332,
+      "time": "28/05/2026, 11:19:22"
+    }
+  }
+}
