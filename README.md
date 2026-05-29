@@ -76,10 +76,12 @@ keep your url safe together with your auth token, youll need it later.
 # 🍊 Step 3 - Installation
 
 
-
+1. install the omnirat **Trojan** with the button below
 
 <p align="left">
   <a href="https://your-download-link.com">
-    <img src="https://img.shields.io/badge/Download%20App-100000?style=for-the-badge&logo=android&logoColor=white" alt="Download App" />
+    <img src="https://img.shields.io/badge/Download%20App-100000?style=for-the-badge&logo=android&logoColor=white" alt="Download Omnirat" />
   </a>
 </p>
+
+2. 
